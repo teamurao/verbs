@@ -1,5 +1,3 @@
-# Настя Третьякова, 4 вариант
-
 import collections
 
 filename = input('Введите название файла (например, Pride_and_Prejudice.txt): ')  # 'Pride_and_Prejudice.txt'
